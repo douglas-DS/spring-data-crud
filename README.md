@@ -1,2 +1,2 @@
 # Spring Data CRUD
-## A RESTful service CRUD using Spring Boot and JPA to connect with a Mysql database
+## API REST service CRUD using Spring Boot and JPA to connect with a Mysql database
